@@ -1,0 +1,4 @@
+.idea/
+__pycache__/
+credentials_imgur.py
+credentials_reddit.py
